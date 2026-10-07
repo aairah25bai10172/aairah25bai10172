@@ -2,7 +2,6 @@
 
 ##  About Me:
 - Branch: Computer Science  
-- Year: 1st Year  
+- Year: 2nd year
 
-##  Learning Goals:
-I hope to learn more about digital skills, programming, and how to use technology effectively in my studies and future career.
+
